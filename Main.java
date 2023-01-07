@@ -3,4 +3,8 @@ public class Main {
         System.out.println("whatever");
         System.out.println("Who really cares?");
     }
+
+    public Integer multi(int a, int b){
+        return a * b;
+    }
 }
